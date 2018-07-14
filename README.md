@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Open edX Installation using Docker 
 
 You can use the [editor on GitHub](https://github.com/mmoralesf/dockx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
